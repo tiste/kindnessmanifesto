@@ -1,6 +1,7 @@
 ---
 title: Kindness Manifesto
 page.title: Kindness Manifesto
+site.title: Kindness Manife
 ---
 
 # Kind
