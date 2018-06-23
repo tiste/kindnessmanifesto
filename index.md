@@ -1,5 +1,5 @@
 ---
-title: Kindness Manifesto
+page.title: Kindness Manifesto
 ---
 
 - Care about others.
