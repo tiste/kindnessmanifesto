@@ -1,7 +1,7 @@
 ---
-title: Kindness Manifesto
-page.title: Kindness Manifesto
-site.title: Kindness Manife
+title: false
+page.title: false
+site.title: false
 ---
 
 # Kind
