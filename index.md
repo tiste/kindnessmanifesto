@@ -1,5 +1,6 @@
 ---
-page.title: Kindness Manifesto
+title: Kindness Manifesto
+layout: default
 ---
 
 - Care about others.
