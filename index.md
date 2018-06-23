@@ -1,7 +1,5 @@
 ---
-title: false
-page.title: false
-site.title: false
+title: Kindness Manifesto
 ---
 
 # Kind
