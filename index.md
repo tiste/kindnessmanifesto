@@ -3,6 +3,8 @@ title: Kindness Manifesto
 page.title: Kindness Manifesto
 ---
 
+# Kind
+
 - Care about others.
 - Speak with people, forget tools and abstractions.
 - Be responsible, don't pass the buck to somebody.
