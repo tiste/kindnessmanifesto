@@ -2,7 +2,8 @@
 title: Kindness Manifesto
 ---
 
-# Kind
+Kind
+=
 
 - Care about others.
 - Speak with people, forget tools and abstractions.
