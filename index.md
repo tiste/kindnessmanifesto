@@ -3,12 +3,12 @@ layout: default
 title: Kindness Manifesto
 ---
 
-- Care about others.
+- Care about people.
+- Respect them for what they are.
 - Speak with people, forget tools and abstractions.
 - Be responsible, don't pass the buck to somebody.
 - Say things quickly, over ruinous empathy.
 - Be authentic, no bullshit.
-- Respect people for what they are.
 - Adopt a non-judging posture.
 - Believe that people are intrinsically good.
 - See the positive side in people.
